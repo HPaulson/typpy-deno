@@ -14,7 +14,7 @@
 
 ```js
 // Dependencies
-import {Typpy} from "../lib/typpy.ts"
+import {Typpy} from "https://deno.land/x/typpy/lib/typpy.ts"
 
 console.log(Typpy(0));
 // => "number"
